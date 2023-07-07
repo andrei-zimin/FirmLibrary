@@ -1,0 +1,30 @@
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\bin\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\bin\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\obj\Debug\FirmLibrary.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\obj\Debug\FirmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\obj\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary\obj\Debug\FirmLibrary.pdb
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.pdb
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csprojAssemblyReference.cache
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.pdb
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csprojAssemblyReference.cache
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary\obj\Debug\FirmLibrary.pdb

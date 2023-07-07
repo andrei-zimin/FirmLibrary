@@ -1,0 +1,108 @@
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\FirmLibrary\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+C:\Users\cherp\source\repos\LAB3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+C:\Users\Evg\Desktop\Андрей Черкашин\FirmLibrary2\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\ООП\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csprojAssemblyReference.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CoreCompileInputs.cache
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.Test.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\FirmLibrary.pdb
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Рабочий стол\Флешка2\2 курс\ООП\Лаб-ые\ООП_LAB3\Lab3\FirmLibrary2\FirmLibrary.Test\obj\Debug\FirmLibrary.Test.csproj.CopyComplete
